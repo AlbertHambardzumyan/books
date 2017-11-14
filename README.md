@@ -5,7 +5,6 @@ The list of books to consider.
 
 * [Node.js in Action](https://www.manning.com/books/node-js-in-action) - Mike Cantelon, Marc Harter, T.J. Holowaychuk, 
  and Nathan Rajlich (October 2013)
-
 * [Node.js in Action, Second Edition](https://www.manning.com/books/node-js-in-action-second-edition) - Alex Young, 
  Bradley Meck, and Mike Cantelon with Tim Oxley, Marc Harter, T.J. Holowaychuk, and Nathan Rajlich (August 2017)
  
