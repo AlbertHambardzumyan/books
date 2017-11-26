@@ -12,7 +12,8 @@ https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/007288
 * [Discrete Mathematics and Its Applications, Seventh Edition](
 https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/ref=dp_ob_title_bk) - Kenneth H. 
  Rosen (2012)
-* [Mathematics, A Discrete Introduction, Third Edition]() - 
+* [Mathematics, A Discrete Introduction, Third Edition](
+https://www.amazon.com/Mathematics-Discrete-Introduction-Edward-Scheinerman/dp/0840049420) - Edward R. Scheinerman
 
 ### Machine Learning
 * [Machine Learning](
