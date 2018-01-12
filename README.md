@@ -26,7 +26,7 @@ https://www.amazon.com/Case-Based-Reasoning-Textbook-Michael-Richter/dp/36424016
 ### Node.js
 * [Node.js in Action](https://www.manning.com/books/node-js-in-action) - Mike Cantelon, Marc Harter, T.J. Holowaychuk, 
  and Nathan Rajlich (October 2013)
-* [Web Development with Node and Express]() - Ethan Brown (July 2014)
+* [Web Development with Node and Express](https://www.amazon.com/Web-Development-Node-Express-Leveraging/dp/1491988649) - Ethan Brown (July 2014)
 * [Node.js in Action, Second Edition](https://www.manning.com/books/node-js-in-action-second-edition) - Alex Young, 
  Bradley Meck, and Mike Cantelon with Tim Oxley, Marc Harter, T.J. Holowaychuk, and Nathan Rajlich (August 2017)
 * [Practical Node.js: Building Real-World Scalable Web Apps](
